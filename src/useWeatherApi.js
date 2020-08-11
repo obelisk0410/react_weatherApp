@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 
-const apiKey = "CWB-B917002C-76FE-40A9-A331-919393F285C2";
+const apiKey = "";
 
 const fetchCurrentWeather = locationName => {
   return fetch(
